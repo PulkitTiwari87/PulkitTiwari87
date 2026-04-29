@@ -20,7 +20,7 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
 
 - 🎓 Third-year **Computer Science student**
 - 💻 **Full Stack Web Developer** (MERN, CMS-driven apps)
-- ☁️ Interested in **AI, Cloud Computing & Cybersecurity**
+- ☁️ Interested in **AI, Cloud Computing & Cybersecurity** 
 - 🌱 Constant learner who loves clean code & real-world problem solving
 - 🌍 Passionate about **social-impact technology**
 
@@ -31,11 +31,11 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind" height="60"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=python,java,c,go,rust" height="60"/>
+  <img src="https://skillicons.dev/icons?i=python,java,c,go" height="60"/>
   <br><br>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" height="60"/>
   <br><br>
-  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,figma,wordpress" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,figma,wordpress" height="60"/>
 </div>
 
 ---
@@ -60,17 +60,7 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_NEW_USERNAME&layout=compact&theme=dracula&hide_border=true" height="165"/>
 </div>
 
----
 
-## 🔥 GitHub Streak & Achievements
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_NEW_USERNAME&theme=dracula&hide_border=true" height="165"/>
-  <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_NEW_USERNAME&theme=dracula&row=1&column=6&no-frame=true&margin-w=15"/>
-</div>
-
----
 
 ## 🌐 Connect With Me
 
@@ -97,10 +87,3 @@ Building scalable web apps • Exploring AI, Cloud & Security • Turning ideas 
 > **PulkitTiwari51**
 
 ---
-
-<p align="center">
-⭐ <i>If you like my work, consider starring a repository — it really helps!</i>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
-</p>
