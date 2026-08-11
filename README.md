@@ -15,19 +15,6 @@ Building scalable systems • Learning AI/ML • Turning ideas into impact
   <img src="https://github.com/WHTEGOD/WHTEGOD/blob/main/banner.gif?raw=true" alt="Banner" width="100%" />
 </p>
 
-<!-- Header with typing effect -->
-<h1 align="center">Hey 👋 What's Up?</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=I'm+Pulkit+Tiwari;Software+%26+ML+Engineer;Final-Year+CS+Student;Welcome+to+my+Dashboard!" alt="Typing SVG" />
-</p>
-<p align="center">
-Building scalable systems • Learning AI/ML • Turning ideas into impact
-</p>
-
-<!-- Cool Banner GIF / Snake -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Sneak Animation" width="100%" />
-</p>
 
 ---
 
