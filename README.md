@@ -70,14 +70,6 @@ Building scalable systems • Learning AI/ML • Turning ideas into impact
   Cybersecurity • OWASP • Nmap • Burp Suite
 </p>
 
-**Core CS**
-<p align="center">
-  Data Structures & Algorithms • OOP • DBMS • Operating Systems • Computer Networks
-</p>
-
-<p align="center">
-  <b>Currently deepening:</b> NumPy / Pandas • Scikit-learn • XGBoost
-</p>
 
 ---
 
