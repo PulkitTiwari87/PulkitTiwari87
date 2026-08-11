@@ -88,14 +88,6 @@ Building scalable systems • Learning AI/ML • Turning ideas into impact
 
 ---
 
-## 📈 GitHub Analytics
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PulkitTiwari87&show_icons=true&theme=dracula&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitTiwari87&layout=compact&theme=dracula&hide_border=true" height="165"/>
-</div>
-
----
-
 ## 🌐 Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/pulkittiwari51">
