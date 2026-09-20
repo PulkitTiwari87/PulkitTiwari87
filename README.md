@@ -46,7 +46,7 @@ class PulkitTiwari:
 
     role = "AI/ML & Software Engineer"
     education = "B.Tech CSE — UPES"
-    current_role = "Software Engineering Intern @ Ascendion"
+    current_role = "Intern @ Ascendion"
 
     interests = [
         "Artificial Intelligence",
