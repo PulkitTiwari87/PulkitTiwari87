@@ -46,7 +46,7 @@ class PulkitTiwari:
 
     role = "AI/ML & Software Engineer"
     education = "B.Tech CSE — UPES"
-    current_role = "Intern @ Ascendion"
+    last_role = "Intern @ Ascendion"
 
     interests = [
         "Artificial Intelligence",
@@ -220,7 +220,7 @@ class PulkitTiwari:
 
 ## 💼 Experience
 
-### 🏢 Software Engineering Intern — Ascendion
+### 🏢 Intern — Ascendion
 
 **Bengaluru, India**
 
