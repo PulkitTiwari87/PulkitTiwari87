@@ -352,25 +352,6 @@ Software Engineering
     └── Production-grade APIs
 ```
 
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    GITHUB STATS                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PulkitTiwari87&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PulkitTiwari87&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PulkitTiwari87&theme=tokyonight&hide_border=true" width="60%"/>
-</p>
-
----
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                     CONTRIBUTIONS                             -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
