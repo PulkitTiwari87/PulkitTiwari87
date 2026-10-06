@@ -371,7 +371,7 @@ Software Engineering
 ## 🌐 Let's Connect
 
 <p align="center">
-  <a href="https://pulkittiwari.netlify.app/">
+  <a href="https://pulkittiwari.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black"/>
   </a>
   <a href="https://www.linkedin.com/in/pulkittiwari51">
