@@ -6,7 +6,7 @@
   <img src="https://github.com/WHTEGOD/WHTEGOD/blob/main/banner.gif?raw=true" alt="Pulkit Tiwari Banner" width="100%"/>
 </p>
 <p align="center">
-  <img src="assets/hero.svg" alt="Pulkit Tiwari — I build AI systems that reason, automate, and ship." width="100%"/>
+  <img src="/hero.svg" alt="Pulkit Tiwari — I build AI systems that reason, automate, and ship." width="100%"/>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@ I work where **AI, backend engineering, and security** meet: agentic workflows, 
 ## Featured work
 
 <p align="center">
-  <img src="assets/projects.svg" alt="Featured projects: SOAR Intelligence, AAVA Resume Agents, Corrective RAG, Hybrid-NIDS, DARK Intelligence, G-DriveX" width="100%"/>
+  <img src="/projects.svg" alt="Featured projects: SOAR Intelligence, AAVA Resume Agents, Corrective RAG, Hybrid-NIDS, DARK Intelligence, G-DriveX" width="100%"/>
 </p>
 
 <br/>
