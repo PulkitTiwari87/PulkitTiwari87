@@ -6,390 +6,85 @@
   <img src="https://github.com/WHTEGOD/WHTEGOD/blob/main/banner.gif?raw=true" alt="Pulkit Tiwari Banner" width="100%"/>
 </p>
 
-<h1 align="center">
-  Hey 👋 I'm Pulkit Tiwari
-</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=850&lines=AI%2FML+%26+Software+Engineer;Cybersecurity+%26+AI+Security+Enthusiast;Agentic+AI+%7C+RAG+%7C+LLMs;Building+Systems+That+Actually+Work;Final-Year+Computer+Science+Student" alt="Typing SVG"/>
+  <img src="assets/hero.svg" alt="Pulkit Tiwari — I build AI systems that reason, automate, and ship." width="100%"/>
 </p>
 
 <p align="center">
-  <b>AI/ML • Software Engineering • Cybersecurity • Agentic Systems</b>
-</p>
-
-<p align="center">
-  <a href="https://pulkittiwari.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pulkittiwari51">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tpulkit87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/PulkitTiwari87">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <a href="https://pulkittiwari.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/pulkittiwari51">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="mailto:tpulkit87@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">LeetCode</a>
 </p>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+## About
 
-## 🧠 About Me
+Final-year Computer Science student at UPES Dehradun (B.Tech, with a Minor in Business), who recently completed a internship at Ascendion in Bengaluru.
 
-```python
-class PulkitTiwari:
+I work where **AI, backend engineering, and security** meet: agentic workflows, RAG pipelines, and the services that keep them running in production. I care more about systems that hold up under real use than demos that only work once.
 
-    role = "AI/ML & Software Engineer"
-    education = "B.Tech CSE — UPES"
-    last_role = "Intern @ Ascendion"
+<br/>
 
-    interests = [
-        "Artificial Intelligence",
-        "Machine Learning",
-        "Agentic AI",
-        "Generative AI",
-        "Cybersecurity",
-        "AI Security",
-        "Distributed Systems"
-    ]
+## Now
 
-    currently_building = [
-        "AI-powered systems",
-        "Agentic workflows",
-        "RAG pipelines",
-        "Security automation",
-        "ML-driven detection systems"
-    ]
+- **Building** agentic AI and RAG systems on AWS Bedrock
+- **Researching** AI agent security: prompt injection, attack chains, automated containment
+- **Studying** system design and distributed systems
+- **Practicing** data structures and algorithms on LeetCode
 
-    philosophy = "Build → Break → Learn → Improve"
-```
+<br/>
 
-- 🎓 Final-year **Computer Science Engineering** student at UPES Dehradun
-- 💼 **Software Engineering Intern @ Ascendion**
-- 🤖 Focused on **AI/ML, Generative AI, Agentic AI and intelligent systems**
-- 🔐 Exploring the intersection of **AI × Cybersecurity**
-- 🧩 Building systems involving **RAG, LLMs, multi-agent workflows and ML-based detection**
-- ⚙️ Strong foundation in **backend engineering, APIs, databases and distributed application development**
-- 🚀 Interested in building **production-grade AI systems**, not just notebooks and demos
-
-> **I like turning complex problems into systems that can reason, automate and scale.**
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       WHAT I BUILD                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## ⚡ What I Build
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 AI & Machine Learning
-
-- Generative AI applications
-- RAG & Corrective RAG
-- LLM-powered systems
-- Agentic AI
-- Multi-agent architectures
-- Embeddings & vector search
-- ML classification & anomaly detection
-- NLP pipelines
-- AI automation
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔐 Cybersecurity
-
-- Security automation
-- Threat detection
-- Network intrusion detection
-- Threat intelligence
-- SOC automation
-- Incident response
-- AI-assisted security analysis
-- Security orchestration
-- AI security research
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Software Engineering
-
-- REST APIs
-- Backend systems
-- Microservices
-- Full-stack applications
-- Authentication & authorization
-- Database architecture
-- CI/CD
-- Cloud deployments
-
-</td>
-
-<td width="50%" valign="top">
-
-### ☁️ Cloud & Infrastructure
-
-- AWS
-- AWS Bedrock
-- Docker
-- Linux
-- GitHub Actions
-- Vercel
-- PostgreSQL
-- Redis
-- MongoDB
-
-</td>
-</tr>
-</table>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                              -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🛠️ Tech Stack
-
-### 🧠 AI / ML / GenAI
+## Featured work
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,aws&perline=8" height="60"/>
+  <img src="assets/projects.svg" alt="Featured projects: SOAR Intelligence, AAVA Resume Agents, Corrective RAG, Hybrid-NIDS, DARK Intelligence, G-DriveX" width="100%"/>
+</p>
+
+<br/>
+
+## Problem solving
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Inter&ext=heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" alt="LeetCode stats and submission heatmap" width="100%"/>
+  </picture>
 </p>
 
 <p align="center">
-
-`Machine Learning` • `Deep Learning` • `Generative AI` • `LLMs` • `RAG` • `Embeddings` • `Agentic AI` • `NLP` • `Prompt Engineering` • `CrewAI` • `AWS Bedrock`
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=PulkitTiwari87&theme=transparent&hide_border=true&ring=2997ff&fire=2997ff&currStreakLabel=2997ff&currStreakNum=f5f5f7&sideNums=f5f5f7&sideLabels=a1a1a6&dates=a1a1a6&background=00000000"/>
+    <img src="https://streak-stats.demolab.com?user=PulkitTiwari87&theme=transparent&hide_border=true&ring=0071e3&fire=0071e3&currStreakLabel=0071e3&currStreakNum=1d1d1f&sideNums=1d1d1f&sideLabels=6e6e73&dates=6e6e73&background=00000000" alt="GitHub contribution streak" width="100%"/>
+  </picture>
 </p>
 
-### 💻 Languages
+<br/>
+
+## Experience
+
+| | Role | Focus |
+| :-- | :-- | :-- |
+| **Ascendion**<br/>Bengaluru | Software Engineering Intern (completed) | Backend services, automation, and agentic AI workflows on AWS Bedrock, including the AAVA multi-agent resume pipeline |
+| **Cloud Security Alliance, UPES**<br/>Chapter | PR & Sponsorship Head | Contributed to AWS Community Day Dehradun 2025 |
+| **Weblicious**<br/>Dehradun | Software Engineering Intern | React.js, Node.js, MongoDB, REST APIs |
+
+<br/>
+
+## Toolbox
+
+| | |
+| :-- | :-- |
+| **AI & ML** | LLMs · RAG · Embeddings · Agentic and multi-agent systems · CrewAI · Prompt engineering · XGBoost · PyTorch |
+| **Backend** | Python · Java · Node.js · TypeScript · REST APIs · Microservices · JWT / OAuth |
+| **Frontend** | React · Next.js · Tailwind · Vite |
+| **Data** | PostgreSQL · MongoDB · MySQL · Redis · SQL |
+| **Cloud & DevOps** | AWS (EC2, Bedrock) · Docker · GitHub Actions · CI/CD · Linux · Vercel |
+| **Security** | Wazuh · TheHive · Cortex · MISP · ELK · OWASP · Nmap · Burp Suite |
+
+<br/>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,c,sql&perline=8" height="60"/>
-</p>
-
-### 🌐 Development
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind,vite&perline=8" height="60"/>
-</p>
-
-### ☁️ Cloud / DevOps
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,docker,linux,git,github,githubactions,vercel&perline=8" height="60"/>
-</p>
-
-### 🗄️ Databases
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis&perline=8" height="60"/>
-</p>
-
-### 🔐 Cybersecurity
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=kali,linux&perline=8" height="60"/>
-</p>
-
-<p align="center">
-
-`Wazuh` • `TheHive` • `Cortex` • `MISP` • `ELK` • `OWASP` • `Nmap` • `Burp Suite`
-
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     EXPERIENCE                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 💼 Experience
-
-### 🏢 Intern — Ascendion
-
-**Bengaluru, India**
-
-Working on software engineering and AI-driven solutions involving:
-
-- ⚙️ Backend services and automation
-- 🤖 Agentic AI workflows
-- 🧠 LLM-powered applications
-- ☁️ AWS & AWS Bedrock
-- 🔄 API and service integration
-- 🧩 Intelligent document/resume processing pipelines
-
-> Building practical AI systems while working in a production engineering environment.
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       PROJECTS                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🚀 Featured Projects
-
-### 🛡️ SOAR Intelligence
-
-**AI-powered Security Orchestration, Automation & Response platform**
-
-A security automation platform combining traditional SOC tooling with ML and LLM-based intelligence.
-
-**Highlights**
-
-- ML-based incident triage
-- XGBoost threat classification
-- NLP phishing detection
-- Isolation Forest anomaly detection
-- Log clustering
-- Attack blast-radius analysis
-- Automated incident investigation
-- Security playbook optimization
-- LLM-powered incident response
-
-**Stack:** `Python` `XGBoost` `Wazuh` `TheHive` `Cortex` `MISP` `ELK` `Redis` `Docker`
-
----
-
-### 🧠 Real-Time Corrective RAG
-
-**A RAG system designed to evaluate and correct retrieved knowledge before generating responses.**
-
-Exploring:
-
-- Retrieval quality evaluation
-- Corrective retrieval
-- Vector search
-- Embeddings
-- LLM reasoning
-- Knowledge verification
-- Agentic retrieval workflows
-
-**Stack:** `Python` `RAG` `LLMs` `Qdrant` `FAISS` `HuggingFace`
-
----
-
-### 🤖 Multi-Agent Resume Intelligence
-
-**Agentic resume processing pipeline developed during my Ascendion internship.**
-
-A multi-agent workflow designed to extract structured information from resumes and transform it into standardized output.
-
-**Stack:** `Python` `CrewAI` `AWS Bedrock` `Claude` `LLMs`
-
----
-
-### 🔐 Hybrid-NIDS
-
-**Network Intrusion Detection System combining signature-based and anomaly-based detection.**
-
-Designed to identify suspicious network behavior through multiple detection strategies and present security insights through a web interface.
-
-**Stack:** `Python` `Machine Learning` `React` `Node.js` `Cybersecurity`
-
----
-
-### 🕵️ DARK Intelligence
-
-**Threat intelligence platform designed for security analysis and investigation.**
-
-Combines threat intelligence workflows with a modern web interface and educational capabilities for security research.
-
-**Stack:** `Next.js` `Node.js` `Threat Intelligence` `Security`
-
----
-
-### ☁️ G-DriveX
-
-**Multi-account Google Drive management platform.**
-
-A SaaS application designed to manage and unify storage across multiple Google Drive accounts.
-
-**Stack:** `React` `Node.js` `PostgreSQL` `OAuth 2.0` `REST APIs`
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                      CURRENTLY                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🔭 Currently Exploring
-
-```text
-AI Engineering
-    ├── Machine Learning fundamentals
-    ├── Deep Learning
-    ├── LLM architectures
-    ├── RAG / Corrective RAG
-    ├── Agentic AI
-    └── Multi-Agent Systems
-
-AI Security
-    ├── AI Agent Security
-    ├── Prompt Injection
-    ├── Agent Attack Chains
-    ├── Behavioral Detection
-    └── Automated Containment
-
-Software Engineering
-    ├── System Design
-    ├── Distributed Systems
-    ├── Backend Architecture
-    └── Production-grade APIs
-```
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                     CONTRIBUTIONS                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%"/>
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                        CONNECT                                -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-## 🌐 Let's Connect
-
-<p align="center">
-  <a href="https://pulkittiwari.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-00FFCC?style=for-the-badge&logo=googlechrome&logoColor=black"/>
-  </a>
-  <a href="https://www.linkedin.com/in/pulkittiwari51">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:tpulkit87@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-
-### ⚡ Build intelligent systems. Break assumptions. Secure what matters.
-
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by — explore the repositories and let's build something interesting.</i>
+  <sub>Build. Break. Learn. Improve.</sub>
 </p>
