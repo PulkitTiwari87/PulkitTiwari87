@@ -14,7 +14,7 @@
   <a href="https://pulkittiwari.vercel.app/">Portfolio</a> &nbsp;·&nbsp;
   <a href="https://www.linkedin.com/in/pulkittiwari51">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:tpulkit87@gmail.com">Email</a> &nbsp;·&nbsp;
-  <a href="https://leetcode.com/u/YOUR_LEETCODE_USERNAME">LeetCode</a>
+  <a href="https://leetcode.com/u/pulkittiwari51">LeetCode</a>
 </p>
 
 <br/>
