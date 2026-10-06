@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://github.com/WHTEGOD/WHTEGOD/blob/main/banner.gif?raw=true" alt="Pulkit Tiwari Banner" width="100%"/>
 </p>
-
 <p align="center">
   <img src="assets/hero.svg" alt="Pulkit Tiwari — I build AI systems that reason, automate, and ship." width="100%"/>
 </p>
@@ -21,7 +20,7 @@
 
 ## About
 
-Final-year Computer Science student at UPES Dehradun (B.Tech, with a Minor in Business), who recently completed a internship at Ascendion in Bengaluru.
+Final-year Computer Science student at UPES Dehradun (B.Tech, with a Minor in Business), who recently completed a software engineering internship at Ascendion in Bengaluru.
 
 I work where **AI, backend engineering, and security** meet: agentic workflows, RAG pipelines, and the services that keep them running in production. I care more about systems that hold up under real use than demos that only work once.
 
@@ -48,8 +47,8 @@ I work where **AI, backend engineering, and security** meet: agentic workflows, 
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Inter&ext=heatmap"/>
-    <img src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=light&font=Inter&ext=heatmap" alt="LeetCode stats and submission heatmap" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://leetcard.jacoblin.cool/pulkittiwari51?theme=dark&font=Inter&ext=heatmap"/>
+    <img src="https://leetcard.jacoblin.cool/pulkittiwari51?theme=light&font=Inter&ext=heatmap" alt="LeetCode stats and submission heatmap" width="100%"/>
   </picture>
 </p>
 
